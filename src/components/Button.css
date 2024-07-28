@@ -1,0 +1,9 @@
+.buttons {
+  display: grid;
+  gap: 35px;
+  grid-template-columns: auto auto auto;
+}
+.btn {
+  size: 20px;
+  font-weight: 400;
+}
